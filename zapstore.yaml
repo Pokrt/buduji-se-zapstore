@@ -1,16 +1,23 @@
 # Publisher verification for Zapstore; the app's source code is not public (see README).
 repository: https://github.com/Pokrt/buduji-se-zapstore
 pubkey: npub1tt4k04l7uwx2sktwshlrcv4jz0xqaypl727nmh3s5gqx5p8j0k5q4jwfhu
-summary: Deník sebeřízení. Den ve třech třetinách, inspirováno Tomášem Baťou, podloženo vědou.
+summary: "Test version. A daily diary in three thirds: sleep, work and time for yourself. Inspired by Tomáš Baťa, backed by science."
 description: |
-    Krátký denní zápis podle tří třetin dne: spánek, práce a čas pro sebe.
+    **Test version.** Works offline on your phone; account sync is not open yet.
 
-    - ráno tři priority, večer tři věci, na které jsem hrdý
-    - jednominutové a dvacetiminutové návyky, bez sérií a bez trestů za vynechaný den
-    - osm týdnů, každý týden jedna nová věc, s krátkým příběhem proč to funguje
-    - spánek z Health Connect, rozdělení dne z kalendáře (volitelné, se souhlasem)
+    A short daily log of your day in three thirds: sleep, work and time for yourself.
 
-    Testovací verze.
+    - three priorities in the morning, three things I'm proud of in the evening
+    - one-minute and twenty-minute habits, with no streaks and no penalty for a missed day
+    - eight weeks, one new thing each week, with a short story on why it works
+    - sleep from Health Connect (optional, with consent)
+
+    In English and Czech (follows the phone's language).
+
+    ---
+
+    **Testovací verze.** Krátký denní zápis podle tří třetin dne: spánek, práce a čas pro sebe. Česky i anglicky.
+
 website: https://github.com/Pokrt/buduji-se-zapstore
 tags:
     - productivity
