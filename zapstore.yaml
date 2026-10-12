@@ -23,7 +23,7 @@ tags:
     - productivity
     - journal
     - habits
-release_source: ../out
+release_source: https://github.com/Pokrt/buduji-se-zapstore
 metadata_sources: []
 # zsp metadata guidance
 # Add any of these optional fields when they are available:
