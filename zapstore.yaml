@@ -1,3 +1,6 @@
+# Publisher verification for Zapstore; the app's source code is not public (see README).
+repository: https://github.com/Pokrt/buduji-se-zapstore
+pubkey: npub1tt4k04l7uwx2sktwshlrcv4jz0xqaypl727nmh3s5gqx5p8j0k5q4jwfhu
 summary: Deník sebeřízení. Den ve třech třetinách, inspirováno Tomášem Baťou, podloženo vědou.
 description: |
     Krátký denní zápis podle tří třetin dne: spánek, práce a čas pro sebe.
