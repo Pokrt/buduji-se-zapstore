@@ -2,9 +2,9 @@
 repository: https://github.com/Pokrt/buduji-se-zapstore
 pubkey: npub1tt4k04l7uwx2sktwshlrcv4jz0xqaypl727nmh3s5gqx5p8j0k5q4jwfhu
 name: Buduji se Beta
-summary: "Test version. A daily diary in three thirds: sleep, work and time for yourself. Inspired by Tomáš Baťa, backed by science."
+summary: "Beta. A daily diary in three thirds: sleep, work and time for yourself. Inspired by Tomáš Baťa, backed by science."
 description: |
-    **Test version.** Works offline on your phone; account sync is not open yet.
+    **Beta.** Works offline on your phone; account sync is not open yet.
 
     A short daily log of your day in three thirds: sleep, work and time for yourself.
 
@@ -17,7 +17,7 @@ description: |
 
     ---
 
-    **Testovací verze.** Krátký denní zápis podle tří třetin dne: spánek, práce a čas pro sebe. Česky i anglicky.
+    **Beta verze.** Krátký denní zápis podle tří třetin dne: spánek, práce a čas pro sebe. Česky i anglicky.
 
 website: https://github.com/Pokrt/buduji-se-zapstore
 tags:
