@@ -1,6 +1,7 @@
 # Publisher verification for Zapstore; the app's source code is not public (see README).
 repository: https://github.com/Pokrt/buduji-se-zapstore
 pubkey: npub1tt4k04l7uwx2sktwshlrcv4jz0xqaypl727nmh3s5gqx5p8j0k5q4jwfhu
+name: Buduji se Beta
 summary: "Test version. A daily diary in three thirds: sleep, work and time for yourself. Inspired by Tomáš Baťa, backed by science."
 description: |
     **Test version.** Works offline on your phone; account sync is not open yet.
