@@ -4,13 +4,13 @@ pubkey: npub1tt4k04l7uwx2sktwshlrcv4jz0xqaypl727nmh3s5gqx5p8j0k5q4jwfhu
 name: Buduji se Beta
 summary: "Beta. A daily diary in three thirds: sleep, work and time for yourself. Inspired by Tomáš Baťa, backed by science."
 description: |
-    **Beta.** Works offline on your phone; account sync is not open yet.
+    **Beta.** Works offline on your phone; with an account it syncs with the web app at app.buduji.se.
 
     A short daily log of your day in three thirds: sleep, work and time for yourself.
 
     - three priorities in the morning, three things I'm proud of in the evening
     - one-minute and twenty-minute habits, with no streaks and no penalty for a missed day
-    - eight weeks, one new thing each week, with a short story on why it works
+    - an eight-day recommended path, one topic a day, with a short story on why it works
     - sleep from Health Connect (optional, with consent)
 
     In English and Czech (follows the phone's language).
@@ -26,6 +26,14 @@ tags:
     - habits
 release_source: https://github.com/Pokrt/buduji-se-zapstore
 metadata_sources: []
+images:
+    - ./screenshots/1.png
+    - ./screenshots/2.png
+    - ./screenshots/3.png
+    - ./screenshots/4.png
+    - ./screenshots/5.png
+    - ./screenshots/6.png
+
 # zsp metadata guidance
 # Add any of these optional fields when they are available:
 # summary: A short description for app listings
